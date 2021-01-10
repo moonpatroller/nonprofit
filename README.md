@@ -3,8 +3,10 @@
 ## Postgres
 
 Download correct Postgres installer from here: https://www.postgresql.org/download/ .
+
 Version 12 is the lastest supported version not in 'preview' status in AWS right now.
 12.3, 12.4, or 12.5 doesn't matter, I get the latest one that is 12.x.
+
 `psql -U postgres` should get to a postgres command line prompt. \q to quit.
 
 ## Nodejs:
